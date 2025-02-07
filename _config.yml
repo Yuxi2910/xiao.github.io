@@ -3,3 +3,11 @@ name: &name "Davena"
 description: &description "QMSS Student at Columbia University"
 url: https://Yuxi2910.github.io
 repository: "Yuxi2910/Yuxi2910.github.io"
+
+## QMSS Practicum Project >
+Description: >
+Develop a machine learning system for predicting cloudbursts in urban areas, 
+gaining practical experience that mirrors real-world R&D environments. The project 
+will compare traditional statistical approaches with modern machine learning methods, 
+including the application of Language Models (LLMs) for weather prediction.
+
